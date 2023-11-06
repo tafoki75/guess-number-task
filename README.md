@@ -1,6 +1,6 @@
 # My Data Science progects
 
-From the [SkillFactory Data Science cource]
+From the SkillFactory Data Science cource
 
 ## Проекты
 
