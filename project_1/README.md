@@ -1,8 +1,8 @@
 # Проект 1. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/tafoki75/guess-number-task/blob/main/project_1/.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/tafoki75/guess-number-task/blob/main/project_1/.README.md#Какой-кейс-решаем)  
+[1. Описание проекта](https://github.com/tafoki75/guess-number-task/blob/main/project_1/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/tafoki75/guess-number-task/blob/main/project_1/README.md#Какой-кейс-решаем)  
 
 
 ### Описание проекта    
